@@ -1,3 +1,16 @@
+#Use depth to guide interactive segmentation
+
+Simulate human vision by modeling depth of field in click encoding. Introduce extra prior to segmentation.
+<img src="https://github.com/LeungTsang/depth_aware_interactive_segmentation/raw/master/fig/dof.png" width="400px">  
+
+Tradictional click encoding
+<img src="https://github.com/LeungTsang/depth_aware_interactive_segmentation/raw/master/fig/dof.png" width="400px">  
+
+Depth of field encoding 
+<img src="https://github.com/LeungTsang/depth_aware_interactive_segmentation/raw/master/fig/Figure_1.png" width="400px">  
+<img src="https://github.com/LeungTsang/depth_aware_interactive_segmentation/raw/master/fig/Figure_2.png" width="400px">  
+<img src="https://github.com/LeungTsang/depth_aware_interactive_segmentation/raw/master/fig/Figure_3.png" width="400px">  
+
 ## Reviving Iterative Training with Mask Guidance for Interactive Segmentation 
 
 <p align="center">
